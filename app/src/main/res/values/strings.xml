@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Proyecto_RegistroyControl</string>
+    <string name="formulario_registro">FORMULARIO REGISTRO</string>
+    <string name="documento">DOCUMENTO</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="apellido">APELLIDO</string>
+    <string name="edad">EDAD</string>
+    <string name="direccion">DIRECCION</string>
+    <string name="telefono">TELEFONO</string>
+    <string name="usuario">USUARIO</string>
+    <string name="contrase_a">CONTRASEÑA</string>
 </resources>
